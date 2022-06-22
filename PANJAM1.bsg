@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Besiege machine save file.-->
+<Machine version="1" bsgVersion="1.3" name="PANJAM1">
+    <!--The machine's position and rotation.-->
+    <Global>
+        <Position x="117.1037" y="1.549961" z="-45.56873" />
+        <Rotation x="1.708261E-13" y="0.7071068" z="-2.304047E-07" w="0.7071068" />
+    </Global>
+    <!--The machine's additional data or modded data.-->
+    <Data>
+        <StringArray key="requiredMods" />
+    </Data>
+    <!--The machine's blocks.-->
+    <Blocks>
+        <Block id="47" guid="954bb3bb-a123-45ce-82ad-08a3dcc217b6">
+            <Transform>
+                <Position x="-0.982516" y="1.999948" z="-122.298" />
+                <Rotation x="-0.2705112" y="-0.7010745" z="-0.09211413" w="-0.6533248" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data />
+        </Block>
+        <Block id="47" guid="5719e41a-5d14-4605-8107-6c121c39e023">
+            <Transform>
+                <Position x="-0.482516" y="1.499948" z="-122.298" />
+                <Rotation x="-0.687014" y="-0.3044542" z="0.3968365" w="-0.5271056" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data />
+        </Block>
+        <Block id="47" guid="b88e0a8b-4adc-43c7-9f22-ddc50a595ce9">
+            <Transform>
+                <Position x="-0.982516" y="0.9999707" z="-122.2979" />
+                <Rotation x="-0.7010707" y="0.2704918" z="0.6533338" w="-0.09213525" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data />
+        </Block>
+        <Block id="47" guid="d85f8e62-e83d-4e7b-8a95-37c131617e9d">
+            <Transform>
+                <Position x="-1.482516" y="1.49997" z="-122.2979" />
+                <Rotation x="-0.3044652" y="0.6869992" z="0.5271258" w="0.3968267" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data />
+        </Block>
+        <Block id="35" guid="9e89289e-55ac-4a5e-a54d-fc8308270b08">
+            <Transform>
+                <Position x="-0.9825" y="1.499957" z="-121.8979" />
+                <Rotation x="-0.7071137" y="0.7070999" z="-9.88662E-06" w="1.023049E-05" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Single key="bmt-mass">0.93</Single>
+            </Data>
+        </Block>
+        <Block id="56" guid="e3096e28-7ecf-4f35-ba0d-ca4fa1bf4f8b">
+            <Transform>
+                <Position x="-0.9825" y="2.199958" z="-122.6979" />
+                <Rotation x="0.4999987" y="-0.5000025" z="-0.5000128" w="-0.4999861" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-shoot">
+                    <String>Y</String>
+                    <String>I</String>
+                </StringArray>
+                <Boolean key="bmt-hold-to-fire">True</Boolean>
+                <Single key="bmt-strength">1.5</Single>
+            </Data>
+        </Block>
+        <Block id="56" guid="0276da5f-3270-4423-9db5-af286cad3052">
+            <Transform>
+                <Position x="-0.2825109" y="1.499949" z="-122.6979" />
+                <Rotation x="-8.664697E-06" y="0.7070963" z="6.803139E-06" w="0.7071173" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-shoot">
+                    <String>Y</String>
+                    <String>I</String>
+                </StringArray>
+                <Boolean key="bmt-hold-to-fire">True</Boolean>
+                <Single key="bmt-strength">1.5</Single>
+            </Data>
+        </Block>
+        <Block id="56" guid="2ee93f5e-fc9a-4dbc-8a99-5ee8a75017e0">
+            <Transform>
+                <Position x="-1.682513" y="1.49997" z="-122.6979" />
+                <Rotation x="0.7070988" y="1.256124E-05" z="-0.7071148" w="7.367041E-06" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-shoot">
+                    <String>Y</String>
+                    <String>I</String>
+                </StringArray>
+                <Boolean key="bmt-hold-to-fire">True</Boolean>
+                <Single key="bmt-strength">1.5</Single>
+            </Data>
+        </Block>
+        <Block id="56" guid="64bc7dc3-4ce1-44f0-bd9d-3621e63dd717">
+            <Transform>
+                <Position x="-1.682513" y="1.49997" z="-121.1979" />
+                <Rotation x="0.7070988" y="1.256124E-05" z="-0.7071148" w="7.367041E-06" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-shoot">
+                    <String>Y</String>
+                    <String>I</String>
+                </StringArray>
+                <Boolean key="bmt-hold-to-fire">True</Boolean>
+                <Single key="bmt-strength">1.5</Single>
+            </Data>
+        </Block>
+        <Block id="56" guid="13a98ad4-c0ee-4b6f-bb44-afa32fb907e1">
+            <Transform>
+                <Position x="-0.9825" y="2.199958" z="-121.1979" />
+                <Rotation x="0.4999987" y="-0.5000025" z="-0.5000128" w="-0.4999861" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-shoot">
+                    <String>Y</String>
+                    <String>I</String>
+                </StringArray>
+                <Boolean key="bmt-hold-to-fire">True</Boolean>
+                <Single key="bmt-strength">1.5</Single>
+            </Data>
+        </Block>
+        <Block id="56" guid="b0900bfa-a343-449c-8e86-2dacd3075c8a">
+            <Transform>
+                <Position x="-0.2825109" y="1.499949" z="-121.1979" />
+                <Rotation x="-8.664697E-06" y="0.7070963" z="6.803139E-06" w="0.7071173" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-shoot">
+                    <String>Y</String>
+                    <String>I</String>
+                </StringArray>
+                <Boolean key="bmt-hold-to-fire">True</Boolean>
+                <Single key="bmt-strength">1.5</Single>
+            </Data>
+        </Block>
+        <Block id="35" guid="525b976d-b8e9-4c04-a079-612309550469">
+            <Transform>
+                <Position x="-0.9825" y="1.499957" z="-120.6979" />
+                <Rotation x="-0.7071137" y="0.7070999" z="-9.88662E-06" w="1.023049E-05" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Single key="bmt-mass">0.93</Single>
+            </Data>
+        </Block>
+        <Block id="56" guid="67a8693e-ecdd-40ad-b05a-73f9764d2561">
+            <Transform>
+                <Position x="-0.9825" y="2.199958" z="-120.1979" />
+                <Rotation x="0.4999987" y="-0.5000025" z="-0.5000128" w="-0.4999861" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-shoot">
+                    <String>Y</String>
+                    <String>I</String>
+                </StringArray>
+                <Boolean key="bmt-hold-to-fire">True</Boolean>
+                <Single key="bmt-strength">1.5</Single>
+            </Data>
+        </Block>
+        <Block id="56" guid="2ddf0883-2678-4cdf-b3e6-759f21943af7">
+            <Transform>
+                <Position x="-0.2825109" y="1.499949" z="-120.1979" />
+                <Rotation x="-8.664697E-06" y="0.7070963" z="6.803139E-06" w="0.7071173" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-shoot">
+                    <String>Y</String>
+                    <String>I</String>
+                </StringArray>
+                <Boolean key="bmt-hold-to-fire">True</Boolean>
+                <Single key="bmt-strength">1.5</Single>
+            </Data>
+        </Block>
+        <Block id="56" guid="b8ae9d8b-a2f7-4895-8a3d-e225e861e73d">
+            <Transform>
+                <Position x="-1.682513" y="1.49997" z="-120.1979" />
+                <Rotation x="0.7070988" y="1.256124E-05" z="-0.7071148" w="7.367041E-06" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-shoot">
+                    <String>Y</String>
+                    <String>I</String>
+                </StringArray>
+                <Boolean key="bmt-hold-to-fire">True</Boolean>
+                <Single key="bmt-strength">1.5</Single>
+            </Data>
+        </Block>
+        <Block id="35" guid="a5fc9884-c99a-45e3-8e95-0d52f2f8d07d">
+            <Transform>
+                <Position x="-0.9825" y="1.499957" z="-119.4979" />
+                <Rotation x="-0.7071137" y="0.7070999" z="-9.88662E-06" w="1.023049E-05" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Single key="bmt-mass">0.93</Single>
+            </Data>
+        </Block>
+        <Block id="47" guid="641e8389-8943-4ec2-a725-b0ef68b5dba9">
+            <Transform>
+                <Position x="-0.482516" y="1.499948" z="-119.798" />
+                <Rotation x="-0.687014" y="-0.3044542" z="0.3968365" w="-0.5271056" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data />
+        </Block>
+        <Block id="47" guid="d9449d4c-dfe6-478e-a56e-e75810c61cb2">
+            <Transform>
+                <Position x="-0.982516" y="1.999948" z="-119.798" />
+                <Rotation x="-0.2705112" y="-0.7010745" z="-0.09211413" w="-0.6533248" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data />
+        </Block>
+        <Block id="47" guid="28a9d52d-519a-43dc-9bf6-7e67e6d95e84">
+            <Transform>
+                <Position x="-0.982516" y="0.9999707" z="-119.7979" />
+                <Rotation x="-0.7010707" y="0.2704918" z="0.6533338" w="-0.09213525" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data />
+        </Block>
+        <Block id="47" guid="3fc7fd6b-ed90-495d-ad5f-9005a9e1e4ed">
+            <Transform>
+                <Position x="-1.482516" y="1.49997" z="-119.7979" />
+                <Rotation x="-0.3044652" y="0.6869992" z="0.5271258" w="0.3968267" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data />
+        </Block>
+        <Block id="27" guid="d03bd3ef-c881-497f-82a8-76384f3148ba">
+            <Transform>
+                <Position x="-0.9824715" y="1.499957" z="-122.8979" />
+                <Rotation x="-9.365765E-06" y="1" z="2.43158E-07" w="1.422495E-05" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-detach">V</StringArray>
+                <Boolean key="bmt-grab-static">False</Boolean>
+                <Boolean key="bmt-grab-static-only">False</Boolean>
+                <Boolean key="bmt-auto-grab">True</Boolean>
+            </Data>
+        </Block>
+        <Block id="23" guid="559240cb-f8c7-4d57-bad5-1dfc97fb18b8">
+            <Transform>
+                <Position x="-0.9824409" y="1.499949" z="-123.8979" />
+                <Rotation x="-9.016032E-06" y="1" z="-2.623328E-06" w="1.493094E-05" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data />
+        </Block>
+        <Block id="56" guid="3e921b20-8599-4d84-ba60-a4748db5ac2b">
+            <Transform>
+                <Position x="-0.982523" y="0.7999594" z="-122.6979" />
+                <Rotation x="-0.4999861" y="-0.5000128" z="0.5000027" w="-0.4999985" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-shoot">
+                    <String>Y</String>
+                    <String>I</String>
+                </StringArray>
+                <Boolean key="bmt-hold-to-fire">True</Boolean>
+                <Single key="bmt-strength">1.5</Single>
+            </Data>
+        </Block>
+        <Block id="56" guid="f079b72a-a847-4651-8022-089031f0f39f">
+            <Transform>
+                <Position x="-0.982523" y="0.7999594" z="-121.1979" />
+                <Rotation x="-0.4999861" y="-0.5000128" z="0.5000027" w="-0.4999985" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-shoot">
+                    <String>Y</String>
+                    <String>I</String>
+                </StringArray>
+                <Boolean key="bmt-hold-to-fire">True</Boolean>
+                <Single key="bmt-strength">1.5</Single>
+            </Data>
+        </Block>
+        <Block id="56" guid="282016cb-0143-48bf-a377-841095f8cc75">
+            <Transform>
+                <Position x="-0.982523" y="0.7999594" z="-120.1979" />
+                <Rotation x="-0.4999861" y="-0.5000128" z="0.5000027" w="-0.4999985" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-shoot">
+                    <String>Y</String>
+                    <String>I</String>
+                </StringArray>
+                <Boolean key="bmt-hold-to-fire">True</Boolean>
+                <Single key="bmt-strength">1.5</Single>
+            </Data>
+        </Block>
+        <Block id="56" guid="a36b08ff-23a8-4473-af95-8d6a0bb4864e">
+            <Transform>
+                <Position x="-1.682513" y="1.49997" z="-118.6979" />
+                <Rotation x="0.7070988" y="1.256124E-05" z="-0.7071148" w="7.367041E-06" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-shoot">
+                    <String>Y</String>
+                    <String>I</String>
+                </StringArray>
+                <Boolean key="bmt-hold-to-fire">True</Boolean>
+                <Single key="bmt-strength">1.5</Single>
+            </Data>
+        </Block>
+        <Block id="56" guid="2fe6bf0e-96f9-43fa-9523-2cca86ccc29e">
+            <Transform>
+                <Position x="-0.9825" y="2.199958" z="-118.6979" />
+                <Rotation x="0.4999987" y="-0.5000025" z="-0.5000128" w="-0.4999861" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-shoot">
+                    <String>Y</String>
+                    <String>I</String>
+                </StringArray>
+                <Boolean key="bmt-hold-to-fire">True</Boolean>
+                <Single key="bmt-strength">1.5</Single>
+            </Data>
+        </Block>
+        <Block id="56" guid="5fa7619c-9ccf-457a-920e-f0826fc34fc1">
+            <Transform>
+                <Position x="-0.982523" y="0.7999594" z="-118.6979" />
+                <Rotation x="-0.4999861" y="-0.5000128" z="0.5000027" w="-0.4999985" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-shoot">
+                    <String>Y</String>
+                    <String>I</String>
+                </StringArray>
+                <Boolean key="bmt-hold-to-fire">True</Boolean>
+                <Single key="bmt-strength">1.5</Single>
+            </Data>
+        </Block>
+        <Block id="56" guid="557a823b-21f8-4724-85aa-e53fba57c13f">
+            <Transform>
+                <Position x="-0.2825109" y="1.499949" z="-118.6979" />
+                <Rotation x="-8.664697E-06" y="0.7070963" z="6.803139E-06" w="0.7071173" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-shoot">
+                    <String>Y</String>
+                    <String>I</String>
+                </StringArray>
+                <Boolean key="bmt-hold-to-fire">True</Boolean>
+                <Single key="bmt-strength">1.5</Single>
+            </Data>
+        </Block>
+        <Block id="35" guid="fa9b8071-3e74-44b8-b066-121d77c54739">
+            <Transform>
+                <Position x="-0.9825" y="1.499957" z="-118.2979" />
+                <Rotation x="-0.7071137" y="0.7070999" z="-9.88662E-06" w="1.023049E-05" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Single key="bmt-mass">0.93</Single>
+            </Data>
+        </Block>
+        <Block id="56" guid="01f6d5c7-b807-4bd9-b726-8139535008d5">
+            <Transform>
+                <Position x="-0.9825" y="2.199958" z="-117.6979" />
+                <Rotation x="0.4999987" y="-0.5000025" z="-0.5000128" w="-0.4999861" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-shoot">
+                    <String>Y</String>
+                    <String>I</String>
+                </StringArray>
+                <Boolean key="bmt-hold-to-fire">True</Boolean>
+                <Single key="bmt-strength">1.5</Single>
+            </Data>
+        </Block>
+        <Block id="56" guid="6e416c5a-18ca-4cb5-9b2f-32a5bdd48f9a">
+            <Transform>
+                <Position x="-0.2825109" y="1.499949" z="-117.6979" />
+                <Rotation x="-8.664697E-06" y="0.7070963" z="6.803139E-06" w="0.7071173" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-shoot">
+                    <String>Y</String>
+                    <String>I</String>
+                </StringArray>
+                <Boolean key="bmt-hold-to-fire">True</Boolean>
+                <Single key="bmt-strength">1.5</Single>
+            </Data>
+        </Block>
+        <Block id="56" guid="11fdfcd1-45e1-4cce-8cfc-7fb140e96a3e">
+            <Transform>
+                <Position x="-1.682513" y="1.49997" z="-117.6979" />
+                <Rotation x="0.7070988" y="1.256124E-05" z="-0.7071148" w="7.367041E-06" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-shoot">
+                    <String>Y</String>
+                    <String>I</String>
+                </StringArray>
+                <Boolean key="bmt-hold-to-fire">True</Boolean>
+                <Single key="bmt-strength">1.5</Single>
+            </Data>
+        </Block>
+        <Block id="35" guid="8c06375b-9e50-4b9a-adf3-dc87042deb8c">
+            <Transform>
+                <Position x="-0.9825" y="1.499957" z="-117.0979" />
+                <Rotation x="-0.7071137" y="0.7070999" z="-9.88662E-06" w="1.023049E-05" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Single key="bmt-mass">0.93</Single>
+            </Data>
+        </Block>
+        <Block id="47" guid="b75e5598-fca1-4f88-935c-ccea82f9bc01">
+            <Transform>
+                <Position x="-0.482516" y="1.499948" z="-117.298" />
+                <Rotation x="-0.687014" y="-0.3044542" z="0.3968365" w="-0.5271056" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data />
+        </Block>
+        <Block id="47" guid="89a40604-35c0-4621-878b-5e78cfcaabe9">
+            <Transform>
+                <Position x="-0.982516" y="1.999948" z="-117.298" />
+                <Rotation x="-0.2705112" y="-0.7010745" z="-0.09211413" w="-0.6533248" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data />
+        </Block>
+        <Block id="47" guid="31788009-7dbe-4aa3-ac54-a508eaff871f">
+            <Transform>
+                <Position x="-0.982516" y="0.9999707" z="-117.2979" />
+                <Rotation x="-0.7010707" y="0.2704918" z="0.6533338" w="-0.09213525" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data />
+        </Block>
+        <Block id="47" guid="395f270e-6b6b-4a08-a647-acc678ececd9">
+            <Transform>
+                <Position x="-1.482516" y="1.49997" z="-117.2979" />
+                <Rotation x="-0.3044652" y="0.6869992" z="0.5271258" w="0.3968267" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data />
+        </Block>
+        <Block id="56" guid="8e87a888-c8b0-4314-9208-2daa30a2c524">
+            <Transform>
+                <Position x="-0.982523" y="0.7999594" z="-117.6979" />
+                <Rotation x="-0.4999861" y="-0.5000128" z="0.5000027" w="-0.4999985" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-shoot">
+                    <String>Y</String>
+                    <String>I</String>
+                </StringArray>
+                <Boolean key="bmt-hold-to-fire">True</Boolean>
+                <Single key="bmt-strength">1.5</Single>
+            </Data>
+        </Block>
+        <Block id="56" guid="c0befea7-8e17-41b9-b5db-d42250babb48">
+            <Transform>
+                <Position x="-1.682513" y="1.49997" z="-116.1979" />
+                <Rotation x="0.7070988" y="1.256124E-05" z="-0.7071148" w="7.367041E-06" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-shoot">
+                    <String>Y</String>
+                    <String>I</String>
+                </StringArray>
+                <Boolean key="bmt-hold-to-fire">True</Boolean>
+                <Single key="bmt-strength">1.5</Single>
+            </Data>
+        </Block>
+        <Block id="56" guid="1962ee1c-d428-43cb-8d79-5695a3729811">
+            <Transform>
+                <Position x="-0.9825" y="2.199958" z="-116.1979" />
+                <Rotation x="0.4999987" y="-0.5000025" z="-0.5000128" w="-0.4999861" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-shoot">
+                    <String>Y</String>
+                    <String>I</String>
+                </StringArray>
+                <Boolean key="bmt-hold-to-fire">True</Boolean>
+                <Single key="bmt-strength">1.5</Single>
+            </Data>
+        </Block>
+        <Block id="56" guid="3ddd345f-45df-45a1-b589-6ec376aca34a">
+            <Transform>
+                <Position x="-0.982523" y="0.7999594" z="-116.1979" />
+                <Rotation x="-0.4999861" y="-0.5000128" z="0.5000027" w="-0.4999985" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-shoot">
+                    <String>Y</String>
+                    <String>I</String>
+                </StringArray>
+                <Boolean key="bmt-hold-to-fire">True</Boolean>
+                <Single key="bmt-strength">1.5</Single>
+            </Data>
+        </Block>
+        <Block id="56" guid="e6d60597-0d84-4d44-9e8d-5cc25eded3c5">
+            <Transform>
+                <Position x="-0.2825109" y="1.499949" z="-116.1979" />
+                <Rotation x="-8.664697E-06" y="0.7070963" z="6.803139E-06" w="0.7071173" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-shoot">
+                    <String>Y</String>
+                    <String>I</String>
+                </StringArray>
+                <Boolean key="bmt-hold-to-fire">True</Boolean>
+                <Single key="bmt-strength">1.5</Single>
+            </Data>
+        </Block>
+        <Block id="35" guid="84fb606a-190c-4140-ad8e-80b365b09173">
+            <Transform>
+                <Position x="-0.9825" y="1.499957" z="-115.8979" />
+                <Rotation x="-0.7071137" y="0.7070999" z="-9.88662E-06" w="1.023049E-05" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Single key="bmt-mass">0.93</Single>
+            </Data>
+        </Block>
+        <Block id="7" guid="5f19335e-c5fc-4345-a6a0-b90edf00c587">
+            <Transform>
+                <Position x="-0.9824955" y="1.999957" z="-113.9979" />
+                <Rotation x="-0.7071066" y="-1.672336E-05" z="-2.899205E-06" w="0.7071069" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-0.0002331043</X>
+                    <Y>8.400002</Y>
+                    <Z>-4.768372E-06</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>270</X>
+                    <Y>89.99731</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>270</X>
+                    <Y>89.99731</Y>
+                    <Z>0</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="56" guid="f16257ea-5d60-4853-9a87-9ce1a7acddcf">
+            <Transform>
+                <Position x="-0.9825" y="2.199958" z="-115.1979" />
+                <Rotation x="0.4999987" y="-0.5000025" z="-0.5000128" w="-0.4999861" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-shoot">
+                    <String>Y</String>
+                    <String>I</String>
+                </StringArray>
+                <Boolean key="bmt-hold-to-fire">True</Boolean>
+                <Single key="bmt-strength">1.5</Single>
+            </Data>
+        </Block>
+        <Block id="56" guid="36feddad-c15e-4df6-bb80-7fbdb8cf59bd">
+            <Transform>
+                <Position x="-0.2825109" y="1.499949" z="-115.1979" />
+                <Rotation x="-8.664697E-06" y="0.7070963" z="6.803139E-06" w="0.7071173" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-shoot">
+                    <String>Y</String>
+                    <String>I</String>
+                </StringArray>
+                <Boolean key="bmt-hold-to-fire">True</Boolean>
+                <Single key="bmt-strength">1.5</Single>
+            </Data>
+        </Block>
+        <Block id="56" guid="90a5e578-eb6d-48cd-bbed-a9d6b9c81245">
+            <Transform>
+                <Position x="-1.682513" y="1.49997" z="-115.1979" />
+                <Rotation x="0.7070988" y="1.256124E-05" z="-0.7071148" w="7.367041E-06" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-shoot">
+                    <String>Y</String>
+                    <String>I</String>
+                </StringArray>
+                <Boolean key="bmt-hold-to-fire">True</Boolean>
+                <Single key="bmt-strength">1.5</Single>
+            </Data>
+        </Block>
+        <Block id="35" guid="fca20a84-0a69-416d-b68b-36c96f79c1f3">
+            <Transform>
+                <Position x="-0.9825" y="1.499957" z="-114.6979" />
+                <Rotation x="-0.7071137" y="0.7070999" z="-9.88662E-06" w="1.023049E-05" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Single key="bmt-mass">0.93</Single>
+            </Data>
+        </Block>
+        <Block id="47" guid="d0318343-1947-4740-b74e-c45ce0854dd0">
+            <Transform>
+                <Position x="-0.482516" y="1.499948" z="-114.798" />
+                <Rotation x="-0.687014" y="-0.3044542" z="0.3968365" w="-0.5271056" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data />
+        </Block>
+        <Block id="47" guid="93f35791-6e54-41eb-9c89-529960bb55c1">
+            <Transform>
+                <Position x="-0.982516" y="1.999948" z="-114.798" />
+                <Rotation x="-0.2705112" y="-0.7010745" z="-0.09211413" w="-0.6533248" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data />
+        </Block>
+        <Block id="47" guid="3b661dfa-bfd4-4abf-bfba-d9afaa1225e2">
+            <Transform>
+                <Position x="-0.982516" y="0.9999707" z="-114.7979" />
+                <Rotation x="-0.7010707" y="0.2704918" z="0.6533338" w="-0.09213525" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data />
+        </Block>
+        <Block id="47" guid="e17cadae-05a6-4856-a215-7d1ef262002a">
+            <Transform>
+                <Position x="-1.482516" y="1.49997" z="-114.7979" />
+                <Rotation x="-0.3044652" y="0.6869992" z="0.5271258" w="0.3968267" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data />
+        </Block>
+        <Block id="56" guid="47d66a83-d638-4a26-89da-a4d9e80f8ca6">
+            <Transform>
+                <Position x="-0.982523" y="0.7999594" z="-115.1979" />
+                <Rotation x="-0.4999861" y="-0.5000128" z="0.5000027" w="-0.4999985" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-shoot">
+                    <String>Y</String>
+                    <String>I</String>
+                </StringArray>
+                <Boolean key="bmt-hold-to-fire">True</Boolean>
+                <Single key="bmt-strength">1.5</Single>
+            </Data>
+        </Block>
+        <Block id="56" guid="fa3ce2bf-7c32-46a1-8fd4-543d537dc656">
+            <Transform>
+                <Position x="-1.682513" y="1.49997" z="-113.6979" />
+                <Rotation x="0.7070988" y="1.256124E-05" z="-0.7071148" w="7.367041E-06" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-shoot">
+                    <String>Y</String>
+                    <String>I</String>
+                </StringArray>
+                <Boolean key="bmt-hold-to-fire">True</Boolean>
+                <Single key="bmt-strength">1.5</Single>
+            </Data>
+        </Block>
+        <Block id="56" guid="4ebc5e4b-be60-403e-b970-cee4e5fb570a">
+            <Transform>
+                <Position x="-0.9825" y="2.199958" z="-113.6979" />
+                <Rotation x="0.4999987" y="-0.5000025" z="-0.5000128" w="-0.4999861" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-shoot">
+                    <String>Y</String>
+                    <String>I</String>
+                </StringArray>
+                <Boolean key="bmt-hold-to-fire">True</Boolean>
+                <Single key="bmt-strength">1.5</Single>
+            </Data>
+        </Block>
+        <Block id="56" guid="9e922029-27bd-4a18-8d97-4fdd44453740">
+            <Transform>
+                <Position x="-0.982523" y="0.7999594" z="-113.6979" />
+                <Rotation x="-0.4999861" y="-0.5000128" z="0.5000027" w="-0.4999985" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-shoot">
+                    <String>Y</String>
+                    <String>I</String>
+                </StringArray>
+                <Boolean key="bmt-hold-to-fire">True</Boolean>
+                <Single key="bmt-strength">1.5</Single>
+            </Data>
+        </Block>
+        <Block id="56" guid="a2721a3b-2acf-4cb6-a915-6df82905082b">
+            <Transform>
+                <Position x="-0.2825109" y="1.499949" z="-113.6979" />
+                <Rotation x="-8.664697E-06" y="0.7070963" z="6.803139E-06" w="0.7071173" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-shoot">
+                    <String>Y</String>
+                    <String>I</String>
+                </StringArray>
+                <Boolean key="bmt-hold-to-fire">True</Boolean>
+                <Single key="bmt-strength">1.5</Single>
+            </Data>
+        </Block>
+        <Block id="35" guid="4260f9cd-5457-4d2a-aa18-29cdfbd129a3">
+            <Transform>
+                <Position x="-0.9825" y="1.499957" z="-113.4979" />
+                <Rotation x="-0.7071137" y="0.7070999" z="-9.88662E-06" w="1.023049E-05" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Single key="bmt-mass">0.93</Single>
+            </Data>
+        </Block>
+        <Block id="27" guid="2851e349-9d11-4664-8e4e-5b26218982fc">
+            <Transform>
+                <Position x="-0.9825" y="1.499957" z="-113.4979" />
+                <Rotation x="2.43148E-07" y="-1.422495E-05" z="1.006515E-05" w="1" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-detach">V</StringArray>
+                <Boolean key="bmt-grab-static">False</Boolean>
+                <Boolean key="bmt-grab-static-only">False</Boolean>
+                <Boolean key="bmt-auto-grab">True</Boolean>
+            </Data>
+        </Block>
+        <Block id="23" guid="b851b035-e49a-4216-9ce5-cc0f39628b52">
+            <Transform>
+                <Position x="-0.9825307" y="1.499948" z="-112.4979" />
+                <Rotation x="3.10965E-06" y="-1.508001E-05" z="1.041488E-05" w="1" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data />
+        </Block>
+    </Blocks>
+</Machine>
